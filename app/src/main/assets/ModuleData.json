@@ -1,0 +1,56 @@
+{
+  "Android": [{
+    "ModuleNo": "Module 1",
+    "ModuleName": "Introduction to Android",
+    "Details": "Introduction to Android Architecture: Introduction, \n History, Features and Android Architecture. \n Android Application Environment, SDK,\n Tools: Application Environment and Tools, \nAndroid SDK."
+
+  },
+    {
+      "ModuleNo": "Module 2",
+      "ModuleName": "User Interface Design",
+      "Details": "User Interface Design \n part 1: Views &View Groups, Views: Button, Text Field, Radio Button, \n Toggle Button, Checkbox, Spinner, Image View, \n Image switcher, Event Handling, Listeners, \n Layouts : Linear, Relative, List View"
+    },
+    {
+      "ModuleNo": "Module 3",
+      "ModuleName": "Mobile data management",
+      "Details": "Content Providers: Contents provider, Uri, CRUD access, Browser, CallLog, C\n ontacts, Media Store,and Setting. \n Data Access and Storage: Shared Preferences, Storage External, \n Network Connection. \n SQLite - SQLite Databases"
+    },
+    {
+      "ModuleNo": "Module 4",
+      "ModuleName": "Native Capabilities",
+      "Details": "Camera, Audio, Sensors and Bluetooth: Android Media API: Playing audio/video, \n  Media recording. Sensors - how sensors work, listening to sensor readings. \n Bluetooth. Maps & Location: Android Communications: GPS, Working with Location Manager, \n Working with Google Maps extensions, Maps via intent and Map Activity, \n Location based Services"
+    },
+    {
+      "ModuleNo": "Module 5",
+      "ModuleName": "Testing",
+      "Details": "Testing: Testing and Commercializing Applications - Basics of Testing, \n  Testing from an IDE (Eclipse), Activity testing, \n Service testing, Content provider testing,\n Test Classes, Debugging using DDMS, \n How to get your app on the app store."
+    }
+  ],
+  "IOS": [{
+    "ModuleNo": "Module 1",
+    "ModuleName": "Introduction to Android",
+    "Details": "Introduction to Android Architecture: Introduction, \n History, Features and Android Architecture. \n Android Application Environment, SDK,\n Tools: Application Environment and Tools, \nAndroid SDK."
+
+  },
+    {
+      "ModuleNo": "Module 2",
+      "ModuleName": "User Interface Design",
+      "Details": "User Interface Design \n part 1: Views &View Groups, Views: Button, Text Field, Radio Button, \n Toggle Button, Checkbox, Spinner, Image View, \n Image switcher, Event Handling, Listeners, \n Layouts : Linear, Relative, List View"
+    },
+    {
+      "ModuleNo": "Module 3",
+      "ModuleName": "Mobile data management",
+      "Details": "Content Providers: Contents provider, Uri, CRUD access, Browser, CallLog, C\n ontacts, Media Store,and Setting. \n Data Access and Storage: Shared Preferences, Storage External, \n Network Connection. \n SQLite - SQLite Databases"
+    },
+    {
+      "ModuleNo": "Module 4",
+      "ModuleName": "Native Capabilities",
+      "Details": "Camera, Audio, Sensors and Bluetooth: Android Media API: Playing audio/video, \n  Media recording. Sensors - how sensors work, listening to sensor readings. \n Bluetooth. Maps & Location: Android Communications: GPS, Working with Location Manager, \n Working with Google Maps extensions, Maps via intent and Map Activity, \n Location based Services"
+    },
+    {
+      "ModuleNo": "Module 5",
+      "ModuleName": "Testing",
+      "Details": "Testing: Testing and Commercializing Applications - Basics of Testing, \n  Testing from an IDE (Eclipse), Activity testing, \n Service testing, Content provider testing,\n Test Classes, Debugging using DDMS, \n How to get your app on the app store."
+    }
+  ]
+}
